@@ -114,9 +114,9 @@ A：Ren'Py 引擎的游戏（有 `game\` 目录 + `.rpa` 包或散装 `.rpy`）�
 最新版请到 **Releases** 页面下载（已含模型，解压即用）：
 
 - `RENPY_RT_Tool.zip`（轻量版）
-- `RENPY_RT_Tool_Big.zip`（大模型版）—— 因单个文件超过 GitHub 的 2 GiB 限制，
-  以 `.001` / `.002` 两个分卷 + `合并分卷.bat` 的形式提供；把三个文件放同一目录，
-  双击 `合并分卷.bat` 即可还原出完整的 `RENPY_RT_Tool_Big.zip`。
+- `RENPY_RT_Tool_Big`（大模型版）—— 因单个文件超过 GitHub 的 2 GiB 限制，
+  以 7-Zip 分卷 `.z01` + `.zip` 的形式提供；把两个分卷下载到同一文件夹，
+  用 **7-Zip / WinRAR 打开 `RENPY_RT_Tool_Big.zip`**，会自动带上 `.z01` 一起解压。
 
 ---
 
